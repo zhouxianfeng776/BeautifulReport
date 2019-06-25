@@ -1,0 +1,3 @@
+
+class GetCookie:
+	COOKIE = None
